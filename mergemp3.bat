@@ -1,0 +1,1 @@
+copy /b f_* song.mp3
